@@ -1,0 +1,17 @@
+---
+title: "Ben10"
+image: "avatar.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/bendeivide"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+Texto simples....
