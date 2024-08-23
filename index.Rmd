@@ -2,8 +2,8 @@
 title: "Ben10"
 image: "avatar.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  - label: Relatórios
+    url: "./relatorios/index.html"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
@@ -14,4 +14,4 @@ output:
   postcards::jolla
 ---
  
-Texto simples....
+Texto simples
